@@ -1,17 +1,30 @@
-<<<<<<< HEAD
-# React + Vite
+# 🌟 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Personal Portfolio Website** built using **React**, **Tailwind CSS**, and **Vite**.  
+This portfolio showcases my profile, skills, projects, internships, and provides ways to connect with me.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- **Home Page** – Intro section with smooth animations and a call-to-action.
+- **About Me** – Brief introduction with a profile image and downloadable resume.
+- **Skills** – Showcases technical skills with clean UI.
+- **Experience** – Details about internships and work experience.
+- **Projects** – Highlighted projects with GitHub links and live demos.
+- **Contact Me** – Interactive form to send messages and contact information.
+- **Responsive Design** – Fully responsive layout for mobile, tablet, and desktop.
+- **Smooth Scrolling** – Navigation with section highlights.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Personal-Portfolio
-A modern and responsive personal portfolio website built with React, Vite, and Tailwind CSS. Showcases my skills, projects, experience, and contact information with smooth animations, optimized performance, and a clean UI for an engaging user experience.
->>>>>>> dfb8059da0ff7d547c4d26516fb34cd1dbd57e2e
+## 🛠️ Technologies Used
+- **React.js** – Component-based UI framework.
+- **Tailwind CSS** – Utility-first CSS framework for styling.
+- **Vite** – Lightning-fast build tool and development server.
+- **EmailJS** – For sending messages via the contact form.
+- **JavaScript (ES6+)** – For interactivity.
+- **HTML5 & CSS3** – For structure and base styling.
+
+---
+
+## 📂 Folder Structure
